@@ -1,0 +1,9 @@
+{
+  "name": "Jake Obron",
+  "version": "0.0.0",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "express": "^4.11.1",
+    "firebase": "^2.1.1",
+
+}
